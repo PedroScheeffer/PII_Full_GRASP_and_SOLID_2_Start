@@ -9,7 +9,7 @@ using System.Collections;
 
 namespace Full_GRASP_And_SOLID.Library
 {
-    public class recipe
+    public class ConsolePrinter
     {
         /* Acá es principalmente SRP ya que estoy sacandole la responsabilidad 
         de imprimir a recipe y dandole a una clase. separada

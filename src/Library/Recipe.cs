@@ -30,7 +30,7 @@ namespace Full_GRASP_And_SOLID.Library
 
         public void PrintRecipe()
         {
-            recipe.PrintRecipe(this);
+            ConsolePrinter.PrintRecipe(this);
         }
     }
 }
